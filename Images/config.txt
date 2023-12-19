@@ -1,0 +1,24 @@
+<key>Generic</key>
+<dict>
+	<key>AdviseFeatures</key>
+	<true/>
+	<key>MLB</key>
+	<string>C02911500CDJG361H</string>
+	<key>MaxBIOSVersion</key>
+	<false/>
+	<key>ProcessorType</key>
+	<integer>1537</integer>
+	<key>ROM</key>
+	<data>dhkUt5uD</data>
+	<key>SpoofVendor</key>
+	<false/>
+	<key>SystemMemoryStatus</key>
+	<string>Upgradable</string>
+	<key>SystemProductName</key>
+	<string>iMacPro1,1</string>
+	<key>SystemSerialNumber</key>
+	<string>C02YF0HLHX87</string>
+	<key>SystemUUID</key>
+	<string>54E654DF-8EF7-4EB4-B41F-106B60FEF5D2</string>
+</dict>
+
